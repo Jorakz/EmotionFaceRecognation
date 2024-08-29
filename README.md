@@ -43,5 +43,7 @@ The CNN model was trained on the following datasets:
 **"window_ui.py":** Responsible for updating and managing the widget parameters, such as setting default values, updating states based on user interactions, and managing the layout.
 
 **haarcascade_frontalface_default.xml:** An XML file containing pre-trained data for the Haar Cascade algorithm, which is used for detecting faces in images. It includes coefficients for identifying facial features like the nose, eyes, and mouth.
-"haarcascade_frontalface_default.xml"
+
+**"best_model_emotion_7"**: pre-trained CNN model for face emotion recognation by 7 different type of emotion wich work with grayscale images 48x48 pixels 
+
 
